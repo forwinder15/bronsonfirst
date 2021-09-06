@@ -5,26 +5,19 @@ title: You Are Welcome Here
 featuredImage: https://ucarecdn.com/b4ea363d-2335-4a31-8cf0-c1c1e5db7b27/
 subtitle: Connecting People to who Jesus is and what He came to do
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Bronson First Baptist church Home page
+  title: "Welcome Home "
 ---
+# Join us to Worship Jesus on Sundays
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Sunday Morning 10:30 AM In-person, Drive-in and [Facebook](https://www.facebook.com/groups/FBCBronson/)
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Sunday Morning 9:15 AM Bible Study Groups
 
-# Features
+## **ALL New Wednesday Programs**
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+Dinner: 5:30
 
-## Get started
+### [Pioneer Clubs (Pre-k - 5th): 6:00](https://fbcbronson.org/children-s-ministry/)
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+### [Eagle Wings Youth (6th -12th): 6:00](https://fbcbronson.org/student-ministry)
