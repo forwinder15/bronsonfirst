@@ -1,9 +1,9 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: You Are Welcome Here
+featuredImage: https://ucarecdn.com/b4ea363d-2335-4a31-8cf0-c1c1e5db7b27/
+subtitle: Connecting People to who Jesus is and what He came to do
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
